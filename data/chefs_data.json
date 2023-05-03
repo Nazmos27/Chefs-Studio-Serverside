@@ -1,0 +1,51 @@
+[
+    {
+      "id": 1,
+      "chef_name": "Massimo Bottura",
+      "chefs_img" : "https://cdn.unenvironment.org/s3fs-public/people/2020-09/massimo_0.jpeg?VersionId=null",
+      "experience": "30 years",
+      "number_of_recipes": 120,
+      "rating": 4.5
+    },
+    {
+      "id": 2,
+      "chef_name": "Gualtiero Marchesi",
+      "chefs_img" : "https://www.alma.scuolacucina.it/wp-content/uploads/2019/04/MARCHESI-624x776.jpg",
+      "experience": "50 years",
+      "number_of_recipes": 350,
+      "rating": 3.8
+    },
+    {
+      "id": 3,
+      "chef_name": "Carlo Cracco",
+      "chefs_img" : "https://www.ifad.org/documents/38714174/41396021/cracco_portrait.jpg/117dcbcb-2642-4b0d-d338-9489f88e02ec?t=1573572244566",
+      "experience": "35 years",
+      "number_of_recipes": 250,
+      "rating": 4.0
+    },
+    {
+      "id": 4,
+      "chef_name": "Nadia Santini",
+      "chefs_img" : "https://www.ochef.com/assets/images/chefs/nadia-santini-large.jpeg",
+      "experience": "50 years",
+      "number_of_recipes": 150,
+      "rating": 4.9
+    },
+    {
+      "id": 5,
+      "chef_name": "Davide Oldani",
+      "chefs_img" : "https://www.cacao-barry.com/sites/cacaobarry2018/files/styles/standard-block/public/CREDIT%20SEBASTIANO%20ROSSI%205.jpg?itok=1hgtX5BH",
+      "experience": "25 years",
+      "number_of_recipes": 180,
+      "rating": 3.2
+    },
+    {
+      "id": 6,
+      "chef_name": "Enrico Crippa",
+      "chefs_img" : "https://cdn4.premiumread.com/?url=https://gulf-times.com/gulftimes/uploads/images/2023/05/03/24085.jpg&q=100&f=jpg",
+      "experience": "20 years",
+      "number_of_recipes": 200,
+      "rating": 4.7
+    }
+  ]
+  
