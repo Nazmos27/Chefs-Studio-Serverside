@@ -5,7 +5,8 @@
       "chefs_img" : "https://cdn.unenvironment.org/s3fs-public/people/2020-09/massimo_0.jpeg?VersionId=null",
       "experience": "30 years",
       "number_of_recipes": 120,
-      "rating": 4.5
+      "rating": 4.5,
+      "bio": "Massimo Bottura is an Italian chef and restaurateur. He is the owner of Osteria Francescana, a three-Michelin-star restaurant based in Modena, Italy. Bottura has been named the world's best chef several times and is known for his innovative and avant-garde approach to traditional Italian cuisine."
     },
     {
       "id": 2,
@@ -13,7 +14,9 @@
       "chefs_img" : "https://www.alma.scuolacucina.it/wp-content/uploads/2019/04/MARCHESI-624x776.jpg",
       "experience": "50 years",
       "number_of_recipes": 350,
-      "rating": 3.8
+      "rating": 3.8,
+      "bio": "Gennaro Contaldo is an Italian chef and restaurateur based in London. He is known for his authentic and rustic approach to Italian cuisine and has worked at several high-profile restaurants throughout his career. Contaldo has also written several cookbooks and appeared on various TV shows, including Jamie Oliver's 'The Naked Chef'."
+
     },
     {
       "id": 3,
@@ -21,7 +24,9 @@
       "chefs_img" : "https://www.ifad.org/documents/38714174/41396021/cracco_portrait.jpg/117dcbcb-2642-4b0d-d338-9489f88e02ec?t=1573572244566",
       "experience": "35 years",
       "number_of_recipes": 250,
-      "rating": 4.0
+      "rating": 4.0,
+      "bio": "Lidia Bastianich is an Italian-American chef, restaurateur, and author. She is the owner of several restaurants in the US and has written numerous cookbooks, including 'Lidia's Italy' and 'Lidia's Family Table'. Bastianich has also appeared on several TV shows, including 'Lidia's Italy' and 'MasterChef'."
+
     },
     {
       "id": 4,
@@ -29,7 +34,9 @@
       "chefs_img" : "https://www.ochef.com/assets/images/chefs/nadia-santini-large.jpeg",
       "experience": "50 years",
       "number_of_recipes": 150,
-      "rating": 4.9
+      "rating": 4.9,
+      "bio": "Carlo Cracco is an Italian chef and restaurateur. He is the owner of several restaurants in Italy and has been awarded three Michelin stars throughout his career. Cracco is known for his innovative approach to traditional Italian cuisine and has appeared on several TV shows, including 'MasterChef Italia'."
+
     },
     {
       "id": 5,
@@ -37,7 +44,9 @@
       "chefs_img" : "https://www.cacao-barry.com/sites/cacaobarry2018/files/styles/standard-block/public/CREDIT%20SEBASTIANO%20ROSSI%205.jpg?itok=1hgtX5BH",
       "experience": "25 years",
       "number_of_recipes": 180,
-      "rating": 3.2
+      "rating": 3.2,
+      "bio": "Giada De Laurentiis is an Italian-American chef, author, and TV personality. She is known for her modern take on traditional Italian cuisine and has written several cookbooks, including 'Everyday Italian' and 'Giada's Kitchen'. De Laurentiis has also hosted several TV shows, including 'Giada at Home' and 'Food Network Star'."
+
     },
     {
       "id": 6,
@@ -45,7 +54,9 @@
       "chefs_img" : "https://cdn4.premiumread.com/?url=https://gulf-times.com/gulftimes/uploads/images/2023/05/03/24085.jpg&q=100&f=jpg",
       "experience": "20 years",
       "number_of_recipes": 200,
-      "rating": 4.7
+      "rating": 4.7,
+      "bio": "Antonio Carluccio was an Italian chef, restaurateur, and author. He was known for his passion for simple and traditional Italian cuisine and had worked in several high-profile restaurants throughout his career. Carluccio had also written numerous cookbooks and appeared on several TV shows, including 'Antonio Carluccio's Italian Feast'."
+
     }
   ]
   

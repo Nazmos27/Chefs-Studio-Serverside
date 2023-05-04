@@ -21,7 +21,12 @@ app.get('/test',(req,res)=> {
 app.get('/chefs_data', (req,res) => {
     res.send(chefs_data)
 })
+app.get('/chefs_data/:id', (req,res) => {
+    const id = req.params.id;
+    const cdata = chefs_data.find(element=> element.id == id );
+    res.send(cdata)
 
+})
 app.get('/recipe_details' , (req,res) => {
     res.send(recipe_details)
 })

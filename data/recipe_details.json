@@ -33,6 +33,12 @@
             "Boil spaghetti until al dente, fry pancetta until crispy, beat eggs and parmesan cheese together, mix all ingredients together and serve with black pepper",
             "Boil spaghetti until al dente, sauté garlic and red pepper flakes in olive oil, mix with cooked spaghetti and parmesan cheese",
             "Boil spaghetti until al dente, brown ground beef with onion and garlic, add tomato sauce, simmer and serve over spaghetti"
+        ],
+        "recipe_img":[
+            "https://realfood.tesco.com/media/images/1400x919-SpaghettiCarbonara-557b6ff5-c4f3-4565-ae8e-a506f7dcc415-0-1400x919.jpg",
+            "https://realfood.tesco.com/media/images/1400x919-SpaghettiCarbonara-557b6ff5-c4f3-4565-ae8e-a506f7dcc415-0-1400x919.jpg",
+            "https://realfood.tesco.com/media/images/1400x919-SpaghettiCarbonara-557b6ff5-c4f3-4565-ae8e-a506f7dcc415-0-1400x919.jpg"
+            
         ]
     },
     {
@@ -69,6 +75,12 @@
             "Roll out pizza dough, spread tomato sauce, sprinkle with mozzarella cheese and basil leaves, bake in oven until crust is crispy and cheese is melted",
             "Roll out pizza dough, spread tomato sauce, top with ricotta cheese, mozzarella cheese, and ham, fold and seal edges to make calzone, bake in oven until golden brown",
             "Roll out pizza dough, spread tomato sauce, top with mozzarella cheese, ham, mushrooms, and artichokes, bake in oven until crust is crispy and cheese is melted"
+        ],
+        "recipe_img":[
+            "https://www.schaer.com/sites/default/files/styles/landscape_lg/public/2923_Classic%20Margherita%20Pizza.jpg?itok=sLReEhud",
+            "https://www.misya.info/wp-content/uploads/2022/07/pizza-capricciosa-.jpg",
+            "https://images.eatsmarter.com/sites/default/files/styles/1600x1200/public/pizza-capricciosa-523578.jpg"
+            
         ]
     },
     {
@@ -109,6 +121,12 @@
             "Cook lasagna noodles, brown ground beef, layer noodles, meat, tomato sauce, ricotta cheese, and mozzarella cheese in baking dish, repeat layers, top with parmesan cheese, bake in oven until bubbly",
             "Slice eggplant, coat in flour, dip in egg, coat in breadcrumbs, fry until golden brown, layer with tomato sauce, mozzarella cheese, and parmesan cheese in baking dish, bake in oven until cheese is melted",
             "Mix ground beef with breadcrumbs, egg, parmesan cheese, onion, and garlic, form into meatballs, bake in oven or cook in tomato sauce until cooked through"
+        ],
+        "recipe_img":[
+            "https://www.modernhoney.com/wp-content/uploads/2019/08/Classic-Lasagna-14-scaled.jpg",
+            "https://www.southernliving.com/thmb/rQaGDkAPGa_MeU4eglrAaeuexjg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/southern-living-chicken-parmesan-ddmfs-0047-fe218cb392784e79bfb4bb586685d6f9.jpg",
+            "https://images.eatsmarter.com/sites/default/files/styles/1600x1200/public/pizza-capricciosa-523578.jpg"
+            
         ]
     },
     {
@@ -147,6 +165,12 @@
             "Sauté onion in butter, add rice and saffron, stir in vegetable broth gradually and cook until al dente, stir in parmesan cheese and serve",
             "Sauté onion and mushrooms in butter, add rice and gradually stir in vegetable broth until al dente, stir in parmesan cheese and serve",
             "Sauté garlic and squid in olive oil, add rice and stir in white wine, gradually add vegetable broth and squid ink, cook until al dente, stir in parmesan cheese and serve"
+        ],
+        "recipe_img":[
+            "https://winedharma.com/wine-dharma/uploads/2020/10/Risotto-alla-Milanese-recipe-risotto-with-saffron-beef-marrow-Italian-recipe.jpg",
+            "https://ediblebronx.ediblecommunities.com/sites/default/files/styles/recipe_banner/public/images/recipe/shutterstock_173037734.jpg?itok=QkifC_7p&c=2d019bcc6d9028d5291a0f91fccbe187",
+            "https://blog.giallozafferano.it/allacciateilgrembiule/wp-content/uploads/2018/03/risotto-nero-di-seppia.jpg"
+            
         ]
     },
     {
@@ -185,6 +209,12 @@
             "Cook spaghetti in a large pot of salted water until al dente. Meanwhile, cook pancetta in a large skillet until crisp. In a bowl, beat eggs, pecorino cheese, and black pepper together. Drain spaghetti and add it to the skillet with the pancetta. Remove from heat and add the egg mixture, tossing quickly to avoid scrambling the eggs. Serve hot.",
             "Preheat oven to 375°F (190°C). Brown the ground beef in a large skillet. Add tomato sauce and cook for a few minutes. In a separate saucepan, make the bechamel sauce by melting butter, adding flour, then gradually whisking in milk until it thickens. Layer lasagne sheets, meat sauce, bechamel sauce, and cheeses in a 9x13 inch baking dish. Repeat layers until all ingredients are used up. Bake for 30-35 minutes or until bubbly and golden brown.",
             "Preheat oven to 450°F (230°C). Roll out pizza dough and place it on a baking sheet. Spread tomato sauce over the dough, leaving a small border. Sprinkle shredded mozzarella cheese over the sauce. Bake for 10-12 minutes or until crust is golden brown and cheese is melted. Remove from oven and top with fresh basil leaves. Drizzle with olive oil and sprinkle with salt. Slice and serve hot."
+        ],
+        "recipe_img":[
+            "https://realfood.tesco.com/media/images/1400x919-SpaghettiCarbonara-557b6ff5-c4f3-4565-ae8e-a506f7dcc415-0-1400x919.jpg",
+            "https://www.modernhoney.com/wp-content/uploads/2019/08/Classic-Lasagna-14-scaled.jpg",
+            "https://www.schaer.com/sites/default/files/styles/landscape_lg/public/2923_Classic%20Margherita%20Pizza.jpg?itok=sLReEhud"
+            
         ]
     },
     {
@@ -225,6 +255,12 @@
             "In a food processor, combine the basil leaves, garlic, pine nuts, and parmesan cheese. Process until finely chopped. With the processor running, gradually add the olive oil until the mixture is smooth. Season with salt to taste. Serve over pasta or spread on crostini.",
             "Bring chicken or vegetable broth to a boil in a large pot. Slowly add the polenta, stirring constantly, and reduce heat to low. Cook for 30-40 minutes, stirring occasionally, until the polenta is creamy and tender. Meanwhile, soak dried porcini mushrooms in hot water for 20 minutes. Drain and chop the mushrooms. In a skillet, melt butter and sauté the mushrooms for 5-7 minutes. Add salt and black pepper to taste. Serve the polenta topped with the mushroom mixture and grated parmesan cheese.",
             "Brew a strong espresso and let it cool. In a large bowl, beat egg yolks and sugar until pale and fluffy. Add mascarpone cheese and beat until smooth. In a separate bowl, whip heavy cream until stiff peaks form. Fold the whipped cream into the mascarpone mixture. Dip savoiardi biscuits in cooled espresso and arrange them in a single layer in a 9x13 inch dish. Spread half of the mascarpone mixture over the biscuits. Repeat with another layer of biscuits and mascarpone mixture. Cover and refrigerate for at least 2 hours. Before serving, dust the top with cocoa powder."
+        ],
+        "recipe_img":[
+            "https://www.schaer.com/sites/default/files/styles/landscape_lg/public/2923_Classic%20Margherita%20Pizza.jpg?itok=sLReEhud",
+            "https://www.misya.info/wp-content/uploads/2022/07/pizza-capricciosa-.jpg",
+            "https://images.eatsmarter.com/sites/default/files/styles/1600x1200/public/pizza-capricciosa-523578.jpg"
+            
         ]
     }
 ]
